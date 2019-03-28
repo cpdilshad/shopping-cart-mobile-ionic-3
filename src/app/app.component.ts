@@ -1,4 +1,3 @@
-//import { DnmPage } from './../pages/dnm/dnm';
 import { ShoppingCartPage } from '../pages/shopping-cart/shopping-cart';
 import { ProductPage } from '../pages/product/product';
 import { Component, ViewChild } from '@angular/core';
